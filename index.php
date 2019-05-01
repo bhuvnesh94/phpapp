@@ -1,6 +1,6 @@
 <?php
 
-echo  "hello world world  \n";
+echo  "route done baby \n";
 
 ?>
 
