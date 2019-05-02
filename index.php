@@ -1,6 +1,6 @@
 <?php
 
-echo  "route done baby \n";
+echo  "route changes \n";
 
 ?>
 
